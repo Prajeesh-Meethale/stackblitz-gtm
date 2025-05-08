@@ -17,10 +17,6 @@ This project presents a full-funnel, research-backed **Growth Strategy Pitch** f
 - Custom Markdown content, Mermaid diagrams, and visual assets
 - Optional Vercel/GitHub Pages support for live deployment
 
-## 📷 Preview
-
-![Preview](/img/stackblitz/stackblitz-banner.png)
-
 ## 🔗 Author
 
 **Prajeesh P M**  
