@@ -19,7 +19,7 @@ This project presents a full-funnel, research-backed **Growth Strategy Pitch** f
 
 ## 📷 Preview
 
-![Preview](./static/img/stackblitz-hero-banner.png)
+![Preview](./static/img/stackblitz/stackblitz-hero-banner.png)
 
 ## 🔗 Author
 
